@@ -1,4 +1,4 @@
-# ckd-stack-starter
+# cdk-stack-starter
 > Sensible, minimalistic CDK Stack Starter
 
 # Features

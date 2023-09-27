@@ -6,7 +6,7 @@
 **✓ .dotenv support** - Start using environment vars for config right away ([3. Store Config in the Environment](https://12factor.net/config))  
 
 ## Get it!
-`$ npx startmeup cdk-stack-starter [local-folder]`
+`$ npx startmeup github.com/aGuyNamedJonas/cdk-stack-starter [local-folder]`
 
 ## Setup
 1. Setup your local AWS credentials
